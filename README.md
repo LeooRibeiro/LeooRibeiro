@@ -2,10 +2,13 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Leonardo Cassemiro Ribeiro, sou de Caraguatatuba - São Paulo. Meu interesse atualmente é poder crescer na profissão, adquirindo conhecimento e propondo melhorias para o mundo do desenvolvimento!
-Possuo conclusão no curso Técnico no IFRS em Informática para Web, com formações em alguns sites como Alura, atualmente cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Sou apaixonada por tecnologia e tudo o que ela pode propor.
+Me chamo Leonardo Cassemiro Ribeiro, sou de Caraguatatuba - São Paulo.
+<br>
+Meu interesse atualmente é poder crescer na profissão, adquirindo conhecimento para propondo melhorias para o mundo do desenvolvimento!
+Possuo conclusão no curso Técnico no IFRS em Informática para Web, com formações em alguns sites como Alura. 
+<br> atualmente cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
 
-
+#### 📩 Links para contato.
 <p align="left">
     <a href="mailto:leo.ribeirobosco@gmail.com">
         <img 
@@ -25,48 +28,48 @@ Possuo conclusão no curso Técnico no IFRS em Informática para Web, com forma�
 
 ---
 
-### 💻📱 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 
 <a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
     <img 
         alt="Javascript" 
         title="Javascript" 
-        src="https://custom-icon-badges.demolab.com/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logoColor=black&"
+        src="https://custom-icon-badges.demolab.com/badge/-JAVASCRIPT-F7DF1E?&logo=javascript&style=for-the-badge&logoColor=black&"
     />
 </a>
 <a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
     <img 
         alt="REACT" 
         title="REACT" 
-        src="https://custom-icon-badges.demolab.com/badge/-REACT-007AAC?style=for-the-badge&logoColor=black&"
+        src="https://custom-icon-badges.demolab.com/badge/-REACT-61DAFB?&logo=react&style=for-the-badge&logoColor=black&"
     />
 </a>
-<a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
+<a href="https://github.com/LeooRibeiro?&logo=react&tab=repositories&sort=stargazers">
     <img 
         alt="TAILWINDCSS" 
         title="TAILWINDCSS" 
-        src="https://custom-icon-badges.demolab.com/badge/-Tailwindcss-06B6D4?style=for-the-badge&logoColor=white&"
+        src="https://custom-icon-badges.demolab.com/badge/-Tailwindcss-06B6D4?&logo=tailwindcss&style=for-the-badge&logoColor=white&"
     />
 </a>
 <a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
     <img 
         alt="NODEJS" 
         title="NODEJS" 
-        src="https://custom-icon-badges.demolab.com/badge/-NODEJS-5FA04E?style=for-the-badge&logoColor=white&"
+        src="https://custom-icon-badges.demolab.com/badge/-NODEjs-5FA04E?&logo=node&style=for-the-badge&logoColor=white&"
     />
 </a>
 <a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
     <img 
         alt="UI-UX" 
         title="UI-UX" 
-        src="https://custom-icon-badges.demolab.com/badge/-UI/UX-4445E7?style=for-the-badge&logoColor=white&"
+        src="https://custom-icon-badges.demolab.com/badge/-UI/UX-4445E7?&logo=opsgenie&style=for-the-badge&logoColor=white&"
     />
 </a>
 <a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
     <img 
         alt="SASS" 
         title="SASS" 
-        src="https://custom-icon-badges.demolab.com/badge/-SASS-CC6699?style=for-the-badge&logoColor=white&"
+        src="https://custom-icon-badges.demolab.com/badge/-SASS-CC6699?&logo=sass&style=for-the-badge&logoColor=white&"
     />
 </a>
 
