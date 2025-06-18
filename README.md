@@ -7,18 +7,11 @@ Possuo conclusão no curso Técnico no IFRS em Informática para Web, com forma�
 
 
 <p align="left">
-    <a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LeooRibeiro?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/LeooRibeiro?tab=followers">
+    <a href="mailto:leo.ribeirobosco@gmail.com">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LeooRIbeiro?color=333333&labelColor=333333&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            title="Envie um e-mail" 
+            src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/leonardo-cassemiro-ribeiro-b2738722b/">
@@ -28,83 +21,54 @@ Possuo conclusão no curso Técnico no IFRS em Informática para Web, com forma�
             src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="mailto:leo.ribeirobosco@gmail.com">
-        <img 
-            alt="Seguidores" 
-            title="Envie um e-mail" 
-            src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
 
 ### 💻📱 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
+    <img 
+        alt="Javascript" 
+        title="Javascript" 
+        src="https://custom-icon-badges.demolab.com/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logoColor=black&"
+    />
+</a>
+<a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
+    <img 
+        alt="REACT" 
+        title="REACT" 
+        src="https://custom-icon-badges.demolab.com/badge/-REACT-007AAC?style=for-the-badge&logoColor=black&"
+    />
+</a>
+<a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
+    <img 
+        alt="TAILWINDCSS" 
+        title="TAILWINDCSS" 
+        src="https://custom-icon-badges.demolab.com/badge/-Tailwindcss-06B6D4?style=for-the-badge&logoColor=white&"
+    />
+</a>
+<a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
+    <img 
+        alt="NODEJS" 
+        title="NODEJS" 
+        src="https://custom-icon-badges.demolab.com/badge/-NODEJS-5FA04E?style=for-the-badge&logoColor=white&"
+    />
+</a>
+<a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
+    <img 
+        alt="UI-UX" 
+        title="UI-UX" 
+        src="https://custom-icon-badges.demolab.com/badge/-UI/UX-4445E7?style=for-the-badge&logoColor=white&"
+    />
+</a>
+<a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
+    <img 
+        alt="SASS" 
+        title="SASS" 
+        src="https://custom-icon-badges.demolab.com/badge/-SASS-CC6699?style=for-the-badge&logoColor=white&"
+    />
+</a>
 
 <br/>
 <br/>
