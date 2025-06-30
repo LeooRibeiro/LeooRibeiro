@@ -60,6 +60,13 @@ Possuo conclusão no curso Técnico no IFRS em Informática para Web, com forma�
 </a>
 <a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
     <img 
+        alt="NextJs" 
+        title="Next.js" 
+        src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
+    />
+</a>
+<a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
+    <img 
         alt="UI-UX" 
         title="UI-UX" 
         src="https://custom-icon-badges.demolab.com/badge/-UI/UX-4445E7?&logo=opsgenie&style=for-the-badge&logoColor=white&"
