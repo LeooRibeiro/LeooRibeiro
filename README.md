@@ -87,7 +87,7 @@ Possuo conclusão no curso Técnico no IFRS em Informática para Web, com forma�
 
 <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="GitHub Stat" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeooRibeiro&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
