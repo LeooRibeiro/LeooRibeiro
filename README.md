@@ -1,15 +1,47 @@
-# 👨‍💻 Leonardo Ribeiro
+<h1 align="center">👨‍💻 Leonardo Cassemiro Ribeiro</h1>
 
-**`Desenvolvedor Front-end`**
+<p align="center">
+  <i>Desenvolvedor Front-end | Estudante de Sistemas para aplicações | Focado em melhorar</i>
+</p>
+
+---
+
+### 👨‍💻 Sobre mim
 
 Me chamo Leonardo Cassemiro Ribeiro, sou de Caraguatatuba - São Paulo.
 <br>
-Meu interesse atualmente é poder crescer na profissão, adquirindo conhecimento para propondo melhorias para o mundo do desenvolvimento!
+Meu interesse atualmente é poder crescer na profissão, adquirindo conhecimento para propondo melhorias para o mundo do desenvolvimento!<br>
 Possuo conclusão no curso Técnico no IFRS em Informática para Web, com formações em alguns sites como Alura. 
-<br> atualmente cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
+<br> atualmente cursando Análise e Desenvolvimento de Sistema.
 
-#### 📩 Links para contato.
-<p align="left">
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nodejs,sass,nextjs,github" alt="Tech Stack"/>
+  </a>
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeooRibeiro&show_icons=true&theme=radical" alt="Leonardo Ribeiro GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeooRibeiro&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+### 📫 Conecte-se comigo
+
+<p align="center">
+  <a href="https://www.instagram.com/salveleo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/LeooRibeiro"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://https://www.linkedin.com/in/leonardo-cassemiro-ribeiro-b2738722b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://https://www.linkedin.com/in/leonardo-cassemiro-ribeiro-b2738722b/"><img src="https://img.shields.io/badge/(12)981342874-000012?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:leo.ribeirobosco@gmail.com">
         <img 
             alt="Seguidores" 
@@ -17,81 +49,9 @@ Possuo conclusão no curso Técnico no IFRS em Informática para Web, com forma�
             src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/leonardo-cassemiro-ribeiro-b2738722b/">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no LinkedIn" 
-            src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
 </p>
 
----
 
-### 💻 Linguagens e Tecnologias
-
-<a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
-    <img 
-        alt="Javascript" 
-        title="Javascript" 
-        src="https://custom-icon-badges.demolab.com/badge/-JAVASCRIPT-F7DF1E?&logo=javascript&style=for-the-badge&logoColor=black&"
-    />
-</a>
-<a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
-    <img 
-        alt="REACT" 
-        title="REACT" 
-        src="https://custom-icon-badges.demolab.com/badge/-REACT-61DAFB?&logo=react&style=for-the-badge&logoColor=black&"
-    />
-</a>
-<a href="https://github.com/LeooRibeiro?&logo=react&tab=repositories&sort=stargazers">
-    <img 
-        alt="TAILWINDCSS" 
-        title="TAILWINDCSS" 
-        src="https://custom-icon-badges.demolab.com/badge/-Tailwindcss-06B6D4?&logo=tailwindcss&style=for-the-badge&logoColor=white&"
-    />
-</a>
-<a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
-    <img 
-        alt="NODEJS" 
-        title="NODEJS" 
-        src="https://custom-icon-badges.demolab.com/badge/-NODEjs-5FA04E?&logo=node&style=for-the-badge&logoColor=white&"
-    />
-</a>
-<a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
-    <img 
-        alt="NextJs" 
-        title="Next.js" 
-        src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
-    />
-</a>
-<a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
-    <img 
-        alt="UI-UX" 
-        title="UI-UX" 
-        src="https://custom-icon-badges.demolab.com/badge/-UI/UX-4445E7?&logo=opsgenie&style=for-the-badge&logoColor=white&"
-    />
-</a>
-<a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
-    <img 
-        alt="SASS" 
-        title="SASS" 
-        src="https://custom-icon-badges.demolab.com/badge/-SASS-CC6699?&logo=sass&style=for-the-badge&logoColor=white&"
-    />
-</a>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<img 
-      align="left" 
-      alt="GitHub Stat" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeooRibeiro&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
 
 
 
