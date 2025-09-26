@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Leonardo Cassemiro Ribeiro</h1>
 
 <p align="center">
-  <i>Desenvolvedor Front-end | Estudante de Sistemas para aplicações | Focado em melhorar</i>
+  <i>Desenvolvedor Full Stack | Estudante de Sistemas para aplicações | Focado em melhorar</i>
 </p>
 
 ---
@@ -20,7 +20,7 @@ Possuo conclusão no curso Técnico no IFRS em Informática para Web, com forma�
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nodejs,sass,nextjs,github" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nodejs,mongodb,postman,express,sass,nextjs,github" alt="Tech Stack"/>
   </a>
 </p>
 
