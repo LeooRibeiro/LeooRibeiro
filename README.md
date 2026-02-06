@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Leonardo Cassemiro Ribeiro</h1>
 
 <p align="center">
-  <i>Desenvolvedor Full Stack | Estudante de Sistemas para aplicações | Focado em melhorar</i>
+  <i>Desenvolvedor Front-End | Estudante de Sistemas para aplicações | Focado em melhorar</i>
 </p>
 
 ---
