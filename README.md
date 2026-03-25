@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Leonardo Cassemiro Ribeiro</h1>
 
 <p align="center">
-  <i>Desenvolvedor Front-End | Estudante de Sistemas para aplicações | Focado em melhorar</i>
+  <i>Desenvolvedor Front/Full-code</i>
 </p>
 
 ---
@@ -10,9 +10,9 @@
 
 Me chamo Leonardo Cassemiro Ribeiro, sou de Caraguatatuba - São Paulo.
 <br>
-Meu interesse atualmente é poder crescer na profissão, adquirindo conhecimento para propondo melhorias para o mundo do desenvolvimento!<br>
-Possuo conclusão no curso Técnico no IFRS em Informática para Web, com formações em alguns sites como Alura. 
-<br> atualmente cursando Análise e Desenvolvimento de Sistema.
+Meu interesse atual é poder crescer na profissão, adquirindo conhecimento propondo melhorias para o desenvolvimento de soluções!<br>
+Possuo conhecimento e experiencia na criação de sites completos com responsividade, utilização de APIs, Cloud e UI/UX. 
+<br>Graduado em Análise e Desenvolvimento de Sistema | Informatica geral para Web IFSP.
 
 ---
 
