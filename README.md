@@ -26,15 +26,6 @@ Possuo conclusão no curso Técnico no IFRS em Informática para Web, com forma�
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeooRibeiro&show_icons=true&theme=radical" alt="Leonardo Ribeiro GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeooRibeiro&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 ### 📫 Conecte-se comigo
 
 <p align="center">
