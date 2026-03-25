@@ -20,7 +20,7 @@ Possuo conhecimento e experiencia na criação de sites completos com responsivi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nodejs,mongodb,postman,express,sass,nextjs,github" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nodejs,mongodb,express,sass,nextjs,supabase" alt="Tech Stack"/>
   </a>
 </p>
 
