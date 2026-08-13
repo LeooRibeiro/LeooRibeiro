@@ -13,6 +13,8 @@
 Me chamo Leonardo Cassemiro Ribeiro, sou de Caraguatatuba - São Paulo 🏖️.<br>
 Estou em busca de oportunidades para crescer profissionalmente, adquirindo conhecimento e propondo melhorias no desenvolvimento de soluções.
 
+- portfolio online: <a href="https://react-portfolio-leonardo.vercel.app/">- 📃Porfolio  -</a>
+
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** e formado em **Informática para Web** pelo IFSP
 - 🌐 Experiência na criação de soluções com APIs, Cloud, responsividade e UI/UX 
 - 💡 Movido pelo desafio de transformar ideias em produtos funcionais e bem desenhados
